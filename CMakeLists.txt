@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(SceneFoundry)
+project(linux-opengl-graphics3d)
 
 
 include(source/app/_.cmake)
