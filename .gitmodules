@@ -6,3 +6,7 @@
 	path = port
 	url = ../linux-opengl-land-port
 	branch = main
+[submodule "source"]
+	path = source
+	url = ../opengl-graphics3d-source
+	branch = main
