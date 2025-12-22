@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 3.16)
 project(linux-opengl-graphics3d)
 
 
+set(WITH_X11_OPERATING_AMBIENT TRUE)
+
+
 include(source/app/_.cmake)
 
 
