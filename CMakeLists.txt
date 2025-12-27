@@ -3,6 +3,7 @@ project(linux-opengl-graphics3d)
 
 
 set(WITH_X11_OPERATING_AMBIENT TRUE)
+set(WITH_GPU_AND_GRAPHICS3D TRUE)
 
 
 include(source/app/_.cmake)
